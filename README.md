@@ -30,6 +30,8 @@ while True:
   s.send(msg.encode()) 
   print("Server > ",s.recv(1024).decode())
 
+```
+
 ## OUPUT
 
 <img width="1328" height="698" alt="image" src="https://github.com/user-attachments/assets/6e6bfd9e-0317-4c09-b159-35fcbe72794e" />
